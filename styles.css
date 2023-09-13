@@ -213,6 +213,7 @@ header .logo {
 }
 
 .experience-text img {
+    opacity: .5;
     width: 30%;
 }
 
